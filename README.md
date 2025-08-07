@@ -3,7 +3,7 @@
 واجهة بزنس كارد عصرية ونظيفة باستخدام Flutter.  
 تصميم مرن وسهل التخصيص للمطورين الجدد في Flutter.
 
-![Business Card Screenshot](images/business_card.png)
+![Business Card Screenshot](assets/business_card.jpg)
 
 ## ✨ الميزات
 - واجهة أنيقة وعصرية
