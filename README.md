@@ -1,16 +1,11 @@
-# hello_word
+# 🪪 Business Card UI – Flutter
 
-A new Flutter project.
+واجهة بزنس كارد عصرية ونظيفة باستخدام Flutter.  
+تصميم مرن وسهل التخصيص للمطورين الجدد في Flutter.
 
-## Getting Started
+![Business Card Screenshot](images/business_card.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ الميزات
+- واجهة أنيقة وعصرية
+- معلومات قابلة للتخصيص (الاسم، الوظيفة، الهاتف، البريد)
+- كود نظيف وسهل الفهم
